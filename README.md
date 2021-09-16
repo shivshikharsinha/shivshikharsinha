@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivshikharsinha
-- 👀 I’m interested in Coding in Python.
-- 🌱 I’m currently learning Python and C language.
-- 💞️ I’m looking to collaborate on Python Projects.
+- 👀 I’m interested in Coding in Python, Java and C.
+- 🌱 I’m currently learning Python, Java and C language.
+- 💞️ I’m looking to collaborate on Projects related to IoT. 
 - 📫 You can contact me on my email-id - shiv.shikhar.3@gmail.com
 
 <!---
