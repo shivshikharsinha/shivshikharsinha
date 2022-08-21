@@ -60,11 +60,11 @@
 <img src="./1_IRFhWNqusUWbTsB1hQXhrQ.gif" alt="coder-boy" width="40%" height="40%" align="right">
 
 
-- 🔭 I’m currently in 2nd year (B.TECH), NIET, Greater Noida.
+- 🔭 I’m currently in 3rd year (B.TECH), NIET, Greater Noida.
 - 🌱 I’m currently learning IoT and other subjects. 
 - 👯 I’m looking to collaborate on open source projects.
-- 🤔 I have a basic knowledge of ( Python | Java | C ).
+- 🤔 I have a basic knowledge of ( Python | Java | C | HTML | CSS | JS).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I read books in extra time.
+- ⚡ Fun fact: I read books in extra time and love editing videos.
 
-Thank you
+Thank You !
