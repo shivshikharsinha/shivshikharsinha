@@ -62,8 +62,9 @@
 
 - 🔭 I’m currently in 3rd year (B.TECH), NIET, Greater Noida.
 - 🌱 I’m currently learning IoT and other subjects. 
+- 🤍 I have a keen interest in Web Development, Operating System & Computer Networks. 
 - 👯 I’m looking to collaborate on open source projects.
-- 🤔 I have a basic knowledge of ( Python | Java | C | HTML | CSS | JS).
+- 🤔 I have a basic knowledge of ( Java | C | Python | HTML | CSS | JS | Bootstrap).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I read books in extra time and love editing videos.
 
