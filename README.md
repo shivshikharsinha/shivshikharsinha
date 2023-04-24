@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shiv.shikhar.3@gmail.com**
 
-- ⚡ Fun fact **I think**
+- ⚡ Fun fact **I love to play Harmonium 🎹(An Indian Classical Instrument) and ❤️ Football ⚽**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +29,7 @@
 <a href="https://www.behance.net/thetech-freak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="thetech-freak" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/the tech-freak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the tech-freak" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shivshikhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivshikhar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shiv_shikhar_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shiv_shikhar_3" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivshikharsinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivshikharsinha" height="30" width="40" /></a>
 </p>
 
