@@ -4,11 +4,11 @@
 <h3 align="center">A Skilled Full-Stack Web Developer with a Creative and a Curious Mind. </h3>
 
 # 💫 About Me:
-🔭 I'm currently working on My Personal Portfolio<br>
-👯 I'm looking for help with Neha Films Website<br>
-🌱 I'm currently learning ReactJS, Docker and SQL<br>
-💬 Ask me about HTML, CSS, JavaScript, UI/UX Design<br>
-📫 How to reach out to me? - <a href = "mailto:shiv.shikhar.3@gmail.com">shiv.shikhar.3@gmail.com</a><br>
+🔭 I'm currently working on My Personal Portfolio.<br>
+👯 I'm looking for help with Neha Films Website.<br>
+🌱 I'm currently learning ReactJS, Docker and SQL.<br>
+💬 Ask me about HTML, CSS, JavaScript, UI/UX Design.<br>
+📫 How to reach out to me? - <a href = "mailto:shiv.shikhar.3@gmail.com">shiv.shikhar.3@gmail.com.</a><br>
 ⚡Fun fact I love to play Harmonium 🎹 (An Indian Classical Music Instrument) and ❤️ Football ⚽
 
 
