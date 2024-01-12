@@ -39,16 +39,14 @@
 
 # 📊 GitHub Stats:
 [![](https://visitcount.itsvg.in/api?id=shivshikharsinha&icon=0&color=0)](https://visitcount.itsvg.in)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shivshikharsinha&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivshikharsinha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api?username=shivshikharsinha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
-
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shivshikharsinha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shivshikhar) 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shivshikhar) 
 
 
