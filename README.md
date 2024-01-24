@@ -1,7 +1,7 @@
 ![Linkedin Banner](https://user-images.githubusercontent.com/64603451/234179849-23429eeb-e989-4b9b-a705-e7f14aa3bf03.png)
 
 <h1 align="center">Hi 👋, I'm Shiv Shikhar Sinha</h1>
-<h3 align="center">A Skilled Web Developer and Aspiring Software Engineer.</h3>
+<h3 align="center">A Skilled Web Developer and Software Engineer.</h3>
 
 # 💫 About Me:
 - 🔭 I’m currently working on [My final year project](https://github.com/shivshikharsinha/my-final-year-project)
